@@ -3,7 +3,7 @@ Maze Solver is a Python program that allows you to interactively create mazes an
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/maze-solver.git
+1. Clone the repository: git clone https://github.com/your-username/Maze-A-Star-Visualization.git
 2. Install the required dependencies: pip install pygame
 
 ## Usage
