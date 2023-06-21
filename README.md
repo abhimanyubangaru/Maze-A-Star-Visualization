@@ -29,7 +29,3 @@ https://www.loom.com/share/bf8fc2ca2c7f46fea35f1bdcce136bc3?sid=cb368c67-c49e-44
 ## Demonstration of Maze Solving User Drawn Barriers 
 https://www.loom.com/share/a13492f8a19e499881269f6e55964603
 
-
-
-Uploading Python - click to place, right click to remove, x for random maze, r for reset - 20 June 2023.mp4…
-
